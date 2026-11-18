@@ -1,9 +1,5 @@
 # Identity Shield — Multi-Branch Speech Deepfake Detection Platform
 
-**Academic Context**: MCA Dissertation  
-**Department**: Department of Computer Science and Engineering  
-**Institution**: The NorthCap University, Gurugram  
-**Author**: Garima Chauhan (Roll No: 25MCA020)  
 **Title**: *"Deepfake Audio Detector: Sensitivity and Fusion of Acoustic, Phonetic, and Semantic Features Under Communication Channel Transformations"*  
 **Benchmark**: ASVspoof 2021 Logical Access (LA) Multi-Codec Benchmark (`none`, `opus`, `gsm`, `pstn`, `g722`, `alaw`, `ulaw`)
 
